@@ -1,6 +1,6 @@
 # Cheryl Dsouza - Portfolio
 
-Welcome to my portfolio website repository! This project showcases my skills, experience, and education in a clean and simple design. You can visit my portfolio live [here](https://your-username.github.io/your-repo-name).
+Welcome to my portfolio website repository! This project showcases my skills, experience, and education in a clean and simple design. You can visit my portfolio live [here](https://github.com/cheryl0497/Portfolio).
 
 ## Table of Contents
 - [Introduction](#introduction)
